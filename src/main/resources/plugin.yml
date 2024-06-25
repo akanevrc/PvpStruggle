@@ -1,0 +1,6 @@
+name: PvpStruggle
+version: '${version}'
+main: tana_gh.pvp_struggle.PvpStruggle
+api-version: '1.20'
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.0.0
